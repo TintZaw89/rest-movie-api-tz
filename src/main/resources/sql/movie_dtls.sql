@@ -1,0 +1,17 @@
+INSERT INTO movie_app.movie_dtls (movieName,director,price,movieCategory,status,photo,email,genre,`year`,video,quantity,movie_category,movie_name,photo_name,photoName) VALUES
+	 ('Interstellar','Christopher Noland','34','New','Active','MOVAB14245__28808.jpg','admin@gmail.com','Sci-Fi','2014',NULL,3,NULL,NULL,NULL,NULL),
+	 ('The Thin Red Line','Terrence Malick','32','New','Active','TTRL.jpg','admin@gmail.com','War','1998',NULL,2,NULL,NULL,NULL,NULL),
+	 ('Jurassic Park','Steven Spielberg','30','New','Active','jrpark.jpg','admin@gmail.com','Fantasy','1993',NULL,2,NULL,NULL,NULL,NULL),
+	 ('A.I','Steven Spielberg','27','Old','Active','AI_.jpg','admin@gmail.com','Sci-Fi','2001',NULL,0,NULL,NULL,NULL,NULL),
+	 ('Troy','Wolfgang Petersen','30','New','Active','Troy.jpg','admin@gmail.com','Historical','2004',NULL,1,NULL,NULL,NULL,NULL),
+	 ('1408','Mikael Håfström','25','Old','Active','1408.jpg','admin@gmail.com','Horror','2006',NULL,1,NULL,NULL,NULL,NULL),
+	 ('The Matrix','The Wachowski Brothers','34','New','Active','matrix.jpg','admin@gmail.com','Sci-Fi','1999',NULL,1,NULL,NULL,NULL,NULL),
+	 ('Man of Steel','Zack Snyder','33','New','Active','mos.jpg','admin@gmail.com','Superhero','2013',NULL,1,NULL,NULL,NULL,NULL),
+	 ('Cast Away','Robert Zemeckis','25','Old','Active','castaway.jpg','thintzaw89@gmail.com','Drama','2000',NULL,1,NULL,NULL,NULL,NULL),
+	 ('Terminator 2: Judgment Day','James Cameron','28','Old','Active','terminator2.jpg','thintzaw89@gmail.com','Fantasy','1986',NULL,1,NULL,NULL,NULL,NULL),
+	 ('Forrest Gump','Robert Zemeckis','32','Old','Active','forrestgump.jpg','admin@gmail.com','Drama','1994','ForrestGump.mp4',1,NULL,NULL,NULL,NULL),
+	 ('Wall-E','Andrew Stanton','21','New','Active','WALL-E_poster.jpg','admin@gmail.com','Family','2009','',1,NULL,NULL,NULL,NULL),
+	 ('The Social Network','David Fincher','30','New','Active','socialnetwork.jpg','admin@gmail.com','Drama','2010',NULL,1,NULL,NULL,NULL,NULL),
+	 ('The Fourth Kind','Olatunde Osunsanmi','24','New','Active','thefourthkind.jpg','admin@gmail.com','Horror','2009',NULL,2,NULL,NULL,NULL,NULL),
+	 ('Black Hawk Dawn','Ridley Scott','30','New','Active','blackhawkdawn.jpg','admin@gmail.com','War','2001',NULL,2,NULL,NULL,NULL,NULL),
+	 ('War of the World','Steven Spielberg','32','New','Active','waroftheworld.jpg','admin@gmail.com','Thriller','2005',NULL,1,NULL,NULL,NULL,NULL);
